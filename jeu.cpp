@@ -1,7 +1,6 @@
 #include <iostream>
 #include <vector>
 #include <unistd.h> // Pour usleep
-#include <xamgraph.h>
 
 using namespace std;
 
